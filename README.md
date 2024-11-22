@@ -1,2 +1,2 @@
-# timewise
-A chrome extension to track your web activity 
+# timeWise
+A chrome extension to track your web activity .
